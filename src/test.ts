@@ -1,6 +1,5 @@
 /**
- * @license
- * Copyright Akveo. All Rights Reserved.
+ * @license 
  * Licensed under the MIT License. See License.txt in the project root for license information.
  */
 
